@@ -40,13 +40,6 @@ Assessed the quality of the data and handled missing or inconsistent data points
 
 8. **Customer Retention**: Calculated how often customers return to make another purchase.
 
-## Documentation and Handover
-Comprehensive project documentation including:
-- Setup instructions.
-- Feature overviews.
-- Code examples.
-
-Conducted a final presentation or walkthrough with stakeholders to showcase results and the underlying code.
 
 ## Author
 Kishor A
